@@ -31,7 +31,7 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tech-Stack
 
 <div align="center">
 
@@ -45,7 +45,20 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 
 ---
 
-### 🚀 Featured Projects
+### 📫 Reach Me Out
+
+<div align="center">
+
+<a href="mailto:manthan.waghela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/manthan-waghela-3316ba328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/myself_moons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/myself-moons/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+
+</div>
+
+---
+
+### 🚀 My Projects
 
 <div align="center">
 
@@ -76,25 +89,12 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 |---|---|---|
 | 💳 **CreditOps** | Reproducible, end-to-end MLOps pipeline that trains and serves a credit card fraud classifier | Python, MLOps |
 | 📈 **Deep-Forecast** | Multivariate forecasting on stock market data using GRU and GenAI | Python, GRU |
-| 📊 **Power_Bi** | Dashboards and charts built with Power BI | Power BI |
+| 📊 **Power_Bi** | Dashboards and charts built with Power BI | Power BI, Power Query |
 | 🧪 **Job_Simulation** | GenAI-powered data analytics job simulation by Forage | Python |
 
 ---
 
-### 📫 Reach Me Out
-
-<div align="center">
-
-<a href="mailto:manthan.waghela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/manthan-waghela-3316ba328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/myself_moons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/myself-moons/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-
-</div>
-
----
-
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <div align="center">
 
@@ -107,7 +107,7 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
 
