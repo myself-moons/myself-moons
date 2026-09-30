@@ -35,11 +35,25 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,jupyter&perline=7" alt="ml stack"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,powerbi,docker,git,github,vscode&perline=7" alt="data & tools"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,html,css&perline=3" alt="web"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -60,48 +74,25 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 
 ### 🚀 My Projects
 
-<div align="center">
-
-<a href="https://github.com/myself-moons/CreditOps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myself-moons&repo=CreditOps&theme=tokyonight&hide_border=true" alt="CreditOps"/>
-</a>
-<a href="https://github.com/myself-moons/Deep-Forecast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myself-moons&repo=Deep-Forecast&theme=tokyonight&hide_border=true" alt="Deep-Forecast"/>
-</a>
-<br/>
-<a href="https://github.com/myself-moons/Power_Bi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myself-moons&repo=Power_Bi&theme=tokyonight&hide_border=true" alt="Power_Bi"/>
-</a>
-<a href="https://github.com/myself-moons/Job_Simulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myself-moons&repo=Job_Simulation&theme=tokyonight&hide_border=true" alt="Job_Simulation"/>
-</a>
-<br/>
-<a href="https://github.com/myself-moons/Moonlight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myself-moons&repo=Moonlight&theme=tokyonight&hide_border=true" alt="Moonlight"/>
-</a>
-<a href="https://github.com/myself-moons/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=myself-moons&repo=Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
-</a>
-
-</div>
-
 | Project | What it does | Stack |
 |---|---|---|
-| 💳 **CreditOps** | Reproducible, end-to-end MLOps pipeline that trains and serves a credit card fraud classifier | Python, MLOps |
-| 📈 **Deep-Forecast** | Multivariate forecasting on stock market data using GRU and GenAI | Python, GRU |
-| 📊 **Power_Bi** | Dashboards and charts built with Power BI | Power BI, Power Query |
-| 🧪 **Job_Simulation** | GenAI-powered data analytics job simulation by Forage | Python |
+| 💳 [**CreditOps**](https://github.com/myself-moons/CreditOps) | Reproducible, end-to-end MLOps pipeline that trains and serves a credit card fraud classifier | Python, MLOps |
+| 📈 [**Deep-Forecast**](https://github.com/myself-moons/Deep-Forecast) | Multivariate forecasting on stock market data using GRU and GenAI | Python, GRU |
+| 📊 [**Power_Bi**](https://github.com/myself-moons/Power_Bi) | Dashboards and charts built with Power BI | Power BI, Power Query |
+| 🧪 [**Job_Simulation**](https://github.com/myself-moons/Job_Simulation) | GenAI-powered data analytics job simulation by Forage | Python |
 
 ---
 
 ### 📊 My GitHub Stats
 
+<!-- Generated into this repo by the "Profile Summary Cards" workflow.
+     Run it once from the Actions tab or these images will be blank. -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=myself-moons&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-moons&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=myself-moons&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="profile details"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language"/>
 
 </div>
 
