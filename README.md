@@ -89,10 +89,10 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
      Run it once from the Actions tab or these images will be blank. -->
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="profile details"/>
 <br/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats"/>
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language"/>
 
 </div>
 
