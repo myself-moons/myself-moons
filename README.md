@@ -15,9 +15,9 @@
 
 ### 👨‍💻 About Me
 
-**Data Analyst & ML Enthusiast | Mumbai, India 🇮🇳**
+**IT Systems Coordinator & Data Analyst | Mumbai, India 🇮🇳**
 
-I enjoy turning messy data into clear insights, from Power BI dashboards to production-style ML pipelines, fraud detection and GenAI-powered analytics, and I'm always looking to build things that are reproducible and end-to-end.
+I enjoy helping. Also I love the Moon! 
 
 ---
 
@@ -26,7 +26,6 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 - 🔬 Currently working as an IT Systems Coordinator Intern at EbixCash World Money!
 - 🌱 Currently learning **deployment, monitoring & CI/CD for ML**
 - 👯 Looking to collaborate on **open-source data / ML projects**
-- 🤔 Looking for help with **scaling ML pipelines to production**
 - 💬 Ask me about **Data Analytics, Power BI, SQL & ML**
 
 ---
