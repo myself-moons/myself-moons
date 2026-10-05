@@ -3,9 +3,7 @@
 
 <img src="profile_banner.png" width="100%" alt="Manthan Waghela - Data Analytics, Machine Learning and MLOps"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Manthan!+%F0%9F%91%8B;Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+end-to-end+ML+pipelines+%F0%9F%A4%96;Woppam+Gangam+Style+%F0%9F%95%BA" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Manthan!+%F0%9F%91%8B;Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+end-to-end+ML+pipelines+%F0%9F%A4%96;The+moon's+beautiful%2C+isn't+it%3F+%F0%9F%8C%99" alt="Typing SVG" /> </a>
 
 <img src="https://komarev.com/ghpvc/?username=myself-moons&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -17,7 +15,7 @@
 
 **IT Systems Coordinator & Data Analyst | Mumbai, India 🇮🇳**
 
-I enjoy helping. Also I love the Moon! 
+I enjoy helping and convenient things. Data is my blood
 
 ---
 
