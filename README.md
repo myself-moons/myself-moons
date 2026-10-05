@@ -15,13 +15,13 @@
 
 **IT Systems Coordinator & Data Analyst | Mumbai, India 🇮🇳**
 
-I am the core of my data.
-Code is my body and logic is my blood.
-I have processed over a thousand datasets.
-Unknown to noise,
-Nor known to bias.
-Have withstood errors to create many models.
-Yet, those models will never stop learning.
+I am the core of my data.<br>
+Code is my body and logic is my blood.<br>
+I have processed over a thousand datasets.<br>
+Unknown to noise,<br>
+Nor known to bias.<br>
+Have withstood errors to create many models.<br>
+Yet, those models will never stop learning.<br>
 So, as I predict, Unlimited Data Works.
 
 ---
