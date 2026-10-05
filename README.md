@@ -15,7 +15,14 @@
 
 **IT Systems Coordinator & Data Analyst | Mumbai, India 🇮🇳**
 
-I enjoy helping and convenient things. Data is my blood
+I am the core of my data.
+Code is my body and logic is my blood.
+I have processed over a thousand datasets.
+Unknown to noise,
+Nor known to bias.
+Have withstood errors to create many models.
+Yet, those models will never stop learning.
+So, as I predict, Unlimited Data Works.
 
 ---
 
