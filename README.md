@@ -23,7 +23,7 @@ I enjoy turning messy data into clear insights, from Power BI dashboards to prod
 
 ### 🔭 Some Updates
 
-- 🔬 Currently working on **MLOps pipelines**
+- 🔬 Currently working as an IT Systems Coordinator Intern at EbixCash World Money!
 - 🌱 Currently learning **deployment, monitoring & CI/CD for ML**
 - 👯 Looking to collaborate on **open-source data / ML projects**
 - 🤔 Looking for help with **scaling ML pipelines to production**
