@@ -125,13 +125,49 @@ So, as I predict, Unlimited Data Works.
 
 <div align="center">
 
-| Stat | Level | Progress |
-|---|:---:|---|
-| 🐍 Python | Lv. 80 | `████████████████░░░░` |
-| 🗄️ SQL | Lv. 75 | `███████████████░░░░░` |
-| 📊 Power BI | Lv. 70 | `██████████████░░░░░░` |
-| 🤖 Machine Learning | Lv. 60 | `████████████░░░░░░░░` |
-| 🚀 MLOps | Lv. 40 | `████████░░░░░░░░░░░░` |
+<table>
+  <tr>
+    <td rowspan="6" align="center" valign="middle">
+      <img src=".docs/rosa.png" width="140" alt="Trainer Rosa"/><br/>
+      <b>Trainer: Moons</b><br/>
+      <sub>Unova Region · 4/5 Badges</sub>
+    </td>
+    <th>Skill</th>
+    <th>Level</th>
+    <th>Progress</th>
+    <th>Badge</th>
+  </tr>
+  <tr>
+    <td>🐍 Python</td>
+    <td align="center">Lv. 80</td>
+    <td><code>████████████████░░░░</code></td>
+    <td>🥇 Trio Badge</td>
+  </tr>
+  <tr>
+    <td>🗄️ SQL</td>
+    <td align="center">Lv. 75</td>
+    <td><code>███████████████░░░░░</code></td>
+    <td>🔰 Basic Badge</td>
+  </tr>
+  <tr>
+    <td>📊 Power BI</td>
+    <td align="center">Lv. 70</td>
+    <td><code>██████████████░░░░░░</code></td>
+    <td>⚡ Bolt Badge</td>
+  </tr>
+  <tr>
+    <td>🤖 Machine Learning</td>
+    <td align="center">Lv. 60</td>
+    <td><code>████████████░░░░░░░░</code></td>
+    <td>🌋 Quake Badge</td>
+  </tr>
+  <tr>
+    <td>🚀 MLOps</td>
+    <td align="center">Lv. 40</td>
+    <td><code>████████░░░░░░░░░░░░</code></td>
+    <td>🔒 Jet Badge <sub>(in training)</sub></td>
+  </tr>
+</table>
 
 <sub>⚡ Currently training: deployment, monitoring & CI/CD for ML</sub>
 
