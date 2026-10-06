@@ -2,23 +2,22 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at 00:00 UTC
-  workflow_dispatch:       # manual "Run workflow" button
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Start with the built-in token. If it errors with
-          # "Resource not accessible by integration" or some cards are
-          # missing, switch to your own token:
-          #   GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
