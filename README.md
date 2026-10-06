@@ -29,8 +29,8 @@ So, as I predict, Unlimited Data Works.
 ### 🔭 Some Updates
 
 - 🔬 Currently working as an IT Systems Coordinator Intern at EbixCash World Money!
-- 🌱 Currently learning **deployment, monitoring & CI/CD for ML**
-- 👯 Looking to collaborate on **open-source data / ML projects**
+- 👯 Working on **convenient and efficient solutions** for non-technical peeps!
+- 🌱 Learning **deployment, monitoring & CI/CD for ML**
 - 💬 Ask me about **Data Analytics, Power BI, SQL & ML**
 
 ---
@@ -101,11 +101,40 @@ So, as I predict, Unlimited Data Works.
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions!
+### 🎮 My Pokémon Team
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/myself-moons/myself-moons/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" width="130" alt="Lugia"/><br/><b>Lugia</b><br/><sub>Psychic / Flying</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png" width="130" alt="Mega Audino"/><br/><b>Mega Audino</b><br/><sub>Normal / Fairy</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png" width="130" alt="Leavanny"/><br/><b>Leavanny</b><br/><sub>Bug / Grass</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png" width="130" alt="Tyrantrum"/><br/><b>Tyrantrum</b><br/><sub>Rock / Dragon</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png" width="130" alt="Galvantula"/><br/><b>Galvantula</b><br/><sub>Bug / Electric</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png" width="130" alt="Falinks"/><br/><b>Falinks</b><br/><sub>Fighting</sub></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🪪 Trainer Card
+
+<div align="center">
+
+| Stat | Level | Progress |
+|---|:---:|---|
+| 🐍 Python | Lv. 80 | `████████████████░░░░` |
+| 🗄️ SQL | Lv. 75 | `███████████████░░░░░` |
+| 📊 Power BI | Lv. 70 | `██████████████░░░░░░` |
+| 🤖 Machine Learning | Lv. 60 | `████████████░░░░░░░░` |
+| 🚀 MLOps | Lv. 40 | `████████░░░░░░░░░░░░` |
+
+<sub>⚡ Currently training: deployment, monitoring & CI/CD for ML</sub>
 
 </div>
 
