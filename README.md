@@ -128,7 +128,7 @@ So, as I predict, Unlimited Data Works.
 <table>
   <tr>
     <td rowspan="6" align="center" valign="middle">
-      <img src=".docs/rosa.png" width="140" alt="Trainer Rosa"/><br/>
+      <img src=".docs/steven_stone.jpg" width="140" alt="Trainer Rosa"/><br/>
       <b>Trainer: Moons</b><br/>
       <sub>Unova Region · 4/5 Badges</sub>
     </td>
