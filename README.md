@@ -158,14 +158,14 @@ So, as I predict, Unlimited Data Works.
 
 <table>
   <tr>
-    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/249.gif" width="110" alt="Lugia"/><br/><b>Lugia</b><br/><sub>Psychic / Flying</sub></td>
-    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/697.gif" height="110" alt="Tyrantrum"/><br/><b>Tyrantrum</b><br/><sub>Rock / Dragon</sub></td>
-    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/542.gif" height="110" alt="Leavanny"/><br/><b>Leavanny</b><br/><sub>Bug / Grass</sub></td>
+    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/249.gif" width="110" alt="Lugia"/><br/><b>Lugia</b><br/><sub>Psychic / Flying</sub></td>
+    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/697.gif" height="110" alt="Tyrantrum"/><br/><b>Tyrantrum</b><br/><sub>Rock / Dragon</sub></td>
+    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/542.gif" height="110" alt="Leavanny"/><br/><b>Leavanny</b><br/><sub>Bug / Grass</sub></td>
   </tr>
   <tr>
-    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10069.gif" height="110" alt="Mega Audino"/><br/><b>Mega Audino</b><br/><sub>Normal / Fairy</sub></td>
-    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/596.gif" width="110" alt="Galvantula"/><br/><b>Galvantula</b><br/><sub>Bug / Electric</sub></td>
-    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/870.gif" width="110" alt="Falinks"/><br/><b>Falinks</b><br/><sub>Fighting</sub></td>
+    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/10069.gif" height="110" alt="Mega Audino"/><br/><b>Mega Audino</b><br/><sub>Normal / Fairy</sub></td>
+    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/596.gif" width="110" alt="Galvantula"/><br/><b>Galvantula</b><br/><sub>Bug / Electric</sub></td>
+    <td align="center" valign="bottom" width="180" height="190"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/870.gif" width="110" alt="Falinks"/><br/><b>Falinks</b><br/><sub>Fighting</sub></td>
   </tr>
 </table>
 
